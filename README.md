@@ -1,6 +1,7 @@
 # Tugas 2 : Pengembangan CRUD API untuk Users Module dengan Validasi Data
 
 ## Struktur Folder
+```
 modules/
 └── items/
 ├── routes/
@@ -22,7 +23,6 @@ README.MD
 1. **Clone repository (atau download ZIP)**
    ```bash
    git clone https://github.com/<USERNAME>/<REPO>.git
-   cd <REPO>
 
 2. **Buat dan aktifkan virtual environment**
     ### Windows PowerShell
