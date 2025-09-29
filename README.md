@@ -1,7 +1,8 @@
 # Tugas 2 : Pengembangan CRUD API untuk Users Module dengan Validasi Data
 
 ## Struktur Folder
-```modules/
+```
+modules/
 └── items/
 ├── routes/
 │ ├── createUser.py
@@ -15,6 +16,7 @@
 .gitignore
 main.py
 README.MD
+```
 ---
 
 ## Persiapan *Environment*
